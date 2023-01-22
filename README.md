@@ -6,9 +6,9 @@ Porn - Gambling - Social and Dating - Illegal - Phishing
 
 We Are Targeting **Arabic** Content And Sites Not Listed In StevenBlack/hosts
 
-To Block All Sites Listed On This Project , Use This File :
-
 Total Blocked Sites : **63**
+
+To Block All Sites Listed On This Project , Use This File :
 
 ```
 https://raw.githubusercontent.com/www-k9/hosts/master/hosts
