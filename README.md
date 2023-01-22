@@ -6,6 +6,14 @@ Porn - Gambling - Social and Dating - Illegal - Phishing
 
 We Are Targeting **Arabic** Content And Sites Not Listed In StevenBlack/hosts
 
+To Block All Sites Listed On This Project , Use This File :
+
+Total Blocked Sites : **63**
+
+```
+https://raw.githubusercontent.com/www-k9/hosts/master/hosts
+```
+
 PR Are Welcome
 
 ------
@@ -16,6 +24,14 @@ PR Are Welcome
 
 نحن نسعى لتنقيح المحتوى **العربى** ، بالاضافى الى المواقع الغير مدرجة فى مشروع
 StevenBlack/hosts
+
+اجمالى ما تم حظره حتى الان : **63**
+
+لحظر جميع المواقع المدرجة فى هذا المشروع ، استخدم الملف التالى :
+
+```
+https://raw.githubusercontent.com/www-k9/hosts/master/hosts
+```
 
 نرحب بالمساهمين
 
