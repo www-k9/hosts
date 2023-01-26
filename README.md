@@ -1,12 +1,12 @@
 # hosts
 
-Let's Clean The WWW And Block Unuseful Sites
+Let's Clean The **WWW** And Block Unuseful Sites
 
 Porn - Gambling - Social and Dating - Illegal - Phishing
 
-We Are Targeting **Arabic** Content And Sites Not Listed In StevenBlack/hosts
+We Are Targeting **Arabic** Content And Sites Not Listed In **StevenBlack/hosts**
 
-Total Blocked Sites : **146**
+Total Blocked Sites : **160**
 
 To Block All Sites Listed On This Project , Use This File :
 
@@ -23,9 +23,9 @@ PR Are Welcome
 الاباحية - المقامرة - التواصل و المواعدة - الغير قانونية - التصايد و الاحتيال
 
 نحن نسعى لتنقيح المحتوى **العربى** ، بالاضافى الى المواقع الغير مدرجة فى مشروع
-StevenBlack/hosts
+**StevenBlack/hosts**
 
-اجمالى المواقع المحظورة حتى الان : **١٤٦**
+اجمالى المواقع المحظورة حتى الان : **١٦٠**
 
 لحظر جميع المواقع المدرجة فى هذا المشروع ، استخدم الملف التالى :
 
