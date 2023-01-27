@@ -14,7 +14,7 @@ To Block All Sites Listed On This Project , Use This File :
 https://raw.githubusercontent.com/www-k9/hosts/master/hosts
 ```
 
-Contributing Are Welcome PR , Issue & Email : www-k9[at]proton.me
+Contributing Are Welcome : PR , Issue & Email : www-k9[at]proton.me
 
 ------
 
@@ -41,4 +41,4 @@ www-k9[at]proton.me
 ماهو ملف المضيف - Host File ؟
 
 يعتبر ملف المضيف ( Host File ) هو اول خطوة لترجمة اسماء النطاقات ( Domain ) لمواقع الشبكة العنكبوتية ( WWW ) التى يتم طلبها عن طريق المتصفح مثلا الى عنوان ip للوصول اليها ، فانه فى نهاية الامر اى نطاق ( Domain ) هو عبارة عن عنوان ip او اكثر ،
-ويستخدم فى حالتنا هذه لإعادة توجيه المواقع الغير مرغوب فيها الى ip غير صحيح - على سبيل المثال الى ip  نفس الجهاز الذى يتم التصفح منه-  فتكون النتيجة عدم القدرة على الدخول الى الموقع المطلوب .
+ويستخدم فى حالتنا هذه لإعادة توجيه المواقع الغير مرغوب فيها الى ip غير صحيح - على سبيل المثال الى ip  نفس الجهاز الذى يتم التصفح منه - فتكون النتيجة عدم القدرة على الدخول الى الموقع المطلوب .
