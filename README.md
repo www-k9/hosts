@@ -14,7 +14,7 @@ To Block All Sites Listed On This Project , Use This File :
 https://raw.githubusercontent.com/www-k9/hosts/master/hosts
 ```
 
-PR Are Welcome
+PR Are Welcome & email Are Welcome : www-k9[at]proton.me
 
 ------
 
@@ -33,7 +33,8 @@ PR Are Welcome
 https://raw.githubusercontent.com/www-k9/hosts/master/hosts
 ```
 
-نرحب بالمساهمين
+نرحب بالمساهمين فى حظر المزيد من الموقع ، كما يمكنك ارسال الموقع المراد حجبها عن طريق البريد الالكترونى :
+www-k9[at]proton.me
 
 ------
 
