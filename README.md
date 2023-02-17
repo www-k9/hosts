@@ -1,6 +1,6 @@
 # hosts
 
-![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fhits.dwyl.com%2FWww-k9%2FHosts.json) - [![Hits-of-Code](https://hitsofcode.com/github/www-k9/hosts?branch=main?style=for-the-badge)](https://hitsofcode.com/github/www-k9/hosts/view?branch=main)
+![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fhits.dwyl.com%2FWww-k9%2FHosts.json)  [![Hits-of-Code](https://hitsofcode.com/github/www-k9/hosts?branch=main)](https://hitsofcode.com/github/www-k9/hosts/view?branch=main)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/www-k9/hosts?style=for-the-badge)
 
 Let's Clean The **WWW** And Block Unuseful Sites
