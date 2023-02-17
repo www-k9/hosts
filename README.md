@@ -1,5 +1,7 @@
 # hosts
 
+![Custom badge](https://img.shields.io/endpoint?style=plastic&url=https%3A%2F%2Fhits.dwyl.com%2FWww-k9%2FHosts.json)
+
 Let's Clean The **WWW** And Block Unuseful Sites
 
 Porn - Gambling - Social and Dating - Illegal - Phishing
