@@ -1,6 +1,6 @@
 # hosts
 
-![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fhits.dwyl.com%2FWww-k9%2FHosts.json)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/www-k9/hosts?style=for-the-badge)
+![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fhits.dwyl.com%2FWww-k9%2FHosts.json)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/www-k9/hosts?style=for-the-badge)
 
 Let's Clean The **WWW** And Block Unuseful Sites
 
@@ -8,7 +8,7 @@ Porn - Gambling - Social and Dating - Illegal - Phishing
 
 We Are Targeting **Arabic** Content And Sites Not Listed In **StevenBlack/hosts**
 
-Total Blocked Sites : **530**
+Total Blocked Sites : **548**
 
 To Block All Sites Listed On This Project , Use This File :
 
@@ -27,7 +27,7 @@ Contributing Are Welcome : PR , Issue & Email : www-k9[at]proton.me
 نحن نسعى لتنقيح المحتوى **العربى** ، بالاضافى الى المواقع الغير مدرجة فى مشروع
 **StevenBlack/hosts**
 
-اجمالى المواقع المحظورة حتى الان : **٥٣٠**
+اجمالى المواقع المحظورة حتى الان : **٥٤٨**
 
 لحظر جميع المواقع المدرجة فى هذا المشروع ، استخدم الملف التالى :
 
