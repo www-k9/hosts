@@ -8,7 +8,7 @@ Porn - Gambling - Social and Dating - Illegal - Phishing
 
 We Are Targeting **Arabic** Content And Sites Not Listed In **StevenBlack/hosts**
 
-Total Blocked Sites : **658**
+Total Blocked Sites : **680**
 
 To Block All Sites Listed On This Project , Use This File :
 
@@ -27,7 +27,7 @@ Contributing Are Welcome : PR , Issue & Email : www-k9[at]proton.me
 نحن نسعى لتنقيح المحتوى **العربى** ، بالاضافى الى المواقع الغير مدرجة فى مشروع
 **StevenBlack/hosts**
 
-اجمالى المواقع المحظورة حتى الان : **٦٥٨**
+اجمالى المواقع المحظورة حتى الان : **٦٨٠**
 
 لحظر جميع المواقع المدرجة فى هذا المشروع ، استخدم الملف التالى :
 
