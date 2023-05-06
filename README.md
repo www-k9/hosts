@@ -6,7 +6,7 @@ Let's Clean The **WWW** And Block Unuseful Sites
 
 Porn - Gambling - Social and Dating - Phishing
 
-We Are Targeting **Arabic** Content And Sites Not Listed In **StevenBlack/hosts**
+We Are Targeting **Arabic** Content And WebSites Not Listed In **StevenBlack/hosts**
 
 Total Blocked Sites : **715**
 
