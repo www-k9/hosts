@@ -4,7 +4,7 @@
 
 Let's Clean The **WWW** And Block Unuseful Sites
 
-Porn - Gambling - Social and Dating - Illegal - Phishing
+Porn - Gambling - Social and Dating - Phishing
 
 We Are Targeting **Arabic** Content And Sites Not Listed In **StevenBlack/hosts**
 
@@ -22,7 +22,7 @@ Contributing Are Welcome : PR , Issue & Email : www-k9[at]proton.me
 
 هيا لننظف الشبكة العنكبوتيه (شبكة المعلومات العالمية - الانترنت) ونحظر المواقع الغير مفيدة
 
-الاباحية - المقامرة - التواصل و المواعدة - الغير قانونية - التصايد و الاحتيال
+الاباحية - المقامرة - التواصل و المواعدة - التصايد و الاحتيال
 
 نحن نسعى لتنقيح المحتوى **العربى** ، بالاضافة الى المواقع الغير مدرجة فى مشروع
 **StevenBlack/hosts**
